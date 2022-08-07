@@ -5,12 +5,15 @@ body {
 }
 
 
-table, th, tbody, td {
-  display: flex;
-  justify-content: center;
-  border: 2px solid black;
+.table-container {
   
+  
+  margin-left: 39rem;
 }
+
+
+
+
 
 #color1 {
   background-color: blue;
