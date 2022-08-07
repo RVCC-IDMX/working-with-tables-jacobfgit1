@@ -1,3 +1,41 @@
 body {
-  background-color: aliceblue;
+  background-color: greenyellow;
+  border: 2px solid black;
+  text-align: center;
 }
+
+
+table, th, tbody, td {
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  
+}
+
+#color1 {
+  background-color: blue;
+  padding:5rem;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+}
+
+#color2 {
+  background-color: yellow;
+  padding:5rem;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+ 
+}
+#color3 {
+  background-color: purple;
+  padding:5rem;
+  color: aliceblue;
+}
+#color4 {
+  background-color: orangered;
+  padding:5rem;
+  color: aliceblue;
+}
+
